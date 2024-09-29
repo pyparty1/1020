@@ -1,4 +1,4 @@
 # 1020
 ## 1020
 ### 1020
-![NKUST].(NKUST.png "NKUST")
+![NKUST](NKUST.png "NKUST")
